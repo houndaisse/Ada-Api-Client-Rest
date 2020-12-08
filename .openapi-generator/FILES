@@ -1,0 +1,9 @@
+.openapi-generator-ignore
+config.gpr
+src/client/ves-clients.adb
+src/client/ves-clients.ads
+src/model/ves-models.adb
+src/model/ves-models.ads
+src/ves-client.adb
+src/ves.ads
+ves.gpr

@@ -1,0 +1,77 @@
+[GENERATED OBJECT FILE]
+b__ves-client.o
+[PROJECT FILES]
+/usr/src/openapi-ada/project/ves.gpr
+20201201102802
+/usr/share/gpr/swagger.gpr
+20201201102349
+/usr/share/gpr/security.gpr
+20201201102235
+/usr/share/gpr/templates_parser.gpr
+20170926114844
+/usr/share/gpr/xmlada_schema.gpr
+20170925082955
+/usr/share/gpr/xmlada_dom.gpr
+20170925082955
+/usr/share/gpr/aws.gpr
+20170926120830
+/usr/share/gpr/utilada_aws.gpr
+20201201102156
+/usr/share/gpr/utilada_curl.gpr
+20201201102155
+/usr/share/gpr/utilada_http.gpr
+20201201102157
+/usr/share/gpr/xmlada_unicode.gpr
+20170925082955
+/usr/share/gpr/xmlada_input.gpr
+20170925082955
+/usr/share/gpr/xmlada_sax.gpr
+20170925082955
+/usr/share/gpr/utilada_xml.gpr
+20201201102154
+/usr/share/gpr/utilada_base.gpr
+20201201102153
+/usr/share/gpr/utilada_core.gpr
+20201201102152
+/usr/share/gpr/utilada_sys.gpr
+20201201102153
+/usr/src/openapi-ada/project/config.gpr
+20201201102802
+[BOUND OBJECT FILES]
+/usr/src/openapi-ada/project/bin/ves.o
+/usr/src/openapi-ada/project/bin/ves-models.o
+/usr/src/openapi-ada/project/bin/ves-clients.o
+/usr/src/openapi-ada/project/bin/ves-client.o
+[GENERATED SOURCE FILES]
+b__ves-client.ads
+b__ves-client.adb
+b__ves-client.ali
+[RESULTING OPTIONS]
+-L/usr/src/openapi-ada/project/bin/
+-L/usr/src/openapi-ada/project/bin/
+-L/usr/lib/utilada_sys.static/
+-L/usr/lib/utilada_core.static/
+-L/usr/lib/utilada_base.static/
+-L/usr/lib/utilada_xml.static/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_sax/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_input/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_unicode/
+-L/usr/lib/utilada_curl.static/
+-L/usr/lib/utilada_aws.static/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/aws/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_dom/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/xmlada_schema/
+-L/usr/lib/x86_64-linux-gnu/ada/adalib/templates_parser/
+-L/usr/lib/security.static/
+-L/usr/lib/swagger.static/
+-L/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+-shared
+-shared-libgcc
+-lcurl
+-lgnarl-7
+-lgnat-7
+-lpthread
+-lrt
+[RUN PATH OPTION]
+/usr/lib/gcc/x86_64-linux-gnu/7/adalib/
+/usr/lib

@@ -1,0 +1,140 @@
+ves-client.adb:2:08: (style) bad column
+ves-client.adb:3:13: (style) space required
+ves-client.adb:6:09: warning: unit "Ves.Models" is not referenced
+ves-client.adb:10:03: (style) two spaces required
+ves-client.adb:11:03: (style) two spaces required
+ves-client.adb:18:100: (style) this line is too long
+ves-client.adb:19:06: (style) two spaces required
+ves-client.adb:20:06: (style) two spaces required
+ves-client.adb:22:02: (style) bad column
+ves-client.adb:23:04: warning: "G" is not modified, could be declared constant
+ves-client.adb:23:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:24:04: warning: "V" is not modified, could be declared constant
+ves-client.adb:24:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:25:04: warning: "Co" is not modified, could be declared constant
+ves-client.adb:25:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:26:04: warning: "Cf" is not modified, could be declared constant
+ves-client.adb:26:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:27:04: warning: "Ao" is not modified, could be declared constant
+ves-client.adb:27:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:28:04: warning: "Af" is not modified, could be declared constant
+ves-client.adb:28:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:28:53: (style) trailing spaces not permitted
+ves-client.adb:29:04: warning: variable "PV" is not referenced
+ves-client.adb:29:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:30:04: warning: "DP" is not modified, could be declared constant
+ves-client.adb:30:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:31:04: warning: "E" is not modified, could be declared constant
+ves-client.adb:31:11: (style) bad casing of "Character" declared in Standard
+ves-client.adb:32:04: warning: "GV" is not modified, could be declared constant
+ves-client.adb:32:11: (style) bad casing of "String" declared in Standard
+ves-client.adb:32:55: (style) trailing spaces not permitted
+ves-client.adb:33:04: warning: "CoAo" is not modified, could be declared constant
+ves-client.adb:33:11: (style) bad casing of "String" declared in Standard
+ves-client.adb:34:04: warning: "AoG" is not modified, could be declared constant
+ves-client.adb:34:11: (style) bad casing of "String" declared in Standard
+ves-client.adb:35:04: warning: variable "AfCf" is not referenced
+ves-client.adb:35:11: (style) bad casing of "String" declared in Standard
+ves-client.adb:37:07: (style) space required
+ves-client.adb:38:04: warning: "Ves_Version" is not modified, could be declared constant
+ves-client.adb:38:20: (style) bad casing of "String" declared in Standard
+ves-client.adb:39:04: warning: "Ves_Unique_Id" is not modified, could be declared constant
+ves-client.adb:39:20: (style) bad casing of "String" declared in Standard
+ves-client.adb:40:07: (style) space required
+ves-client.adb:41:04: warning: "Ves_Version_Event_Header" is not modified, could be declared constant
+ves-client.adb:41:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:42:04: warning: "Ves_Event" is not modified, could be declared constant
+ves-client.adb:42:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:43:04: warning: "Ves_Domain" is not modified, could be declared constant
+ves-client.adb:43:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:43:50: (style) trailing spaces not permitted
+ves-client.adb:44:04: warning: "Ves_Event_Id" is not modified, could be declared constant
+ves-client.adb:44:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:45:04: warning: "Ves_Event_Type" is not modified, could be declared constant
+ves-client.adb:45:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:46:04: warning: "Ves_NFC_Naming_Code" is not modified, could be declared constant
+ves-client.adb:46:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:47:04: warning: "Ves_NF_Naming_Code" is not modified, could be declared constant
+ves-client.adb:47:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:48:04: warning: "Ves_Source_Id" is not modified, could be declared constant
+ves-client.adb:48:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:49:04: warning: "Ves_Source_Name" is not modified, could be declared constant
+ves-client.adb:49:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:50:04: warning: "Ves_Reporting_Entity_Id" is not modified, could be declared constant
+ves-client.adb:50:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:51:04: warning: "Ves_Reporting_Entity_Name" is not modified, could be declared constant
+ves-client.adb:51:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:52:04: warning: "Ves_Priority" is not modified, could be declared constant
+ves-client.adb:52:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:53:04: warning: "Ves_Start_Epoch_MicroSec" is not modified, could be declared constant
+ves-client.adb:53:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:54:04: warning: "Ves_Last_Epoch_MicroSecy" is not modified, could be declared constant
+ves-client.adb:54:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:55:04: warning: "Ves_Sequence" is not modified, could be declared constant
+ves-client.adb:55:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:56:07: (style) space required
+ves-client.adb:57:04: warning: "Fault_Fields_Version" is not modified, could be declared constant
+ves-client.adb:57:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:58:04: warning: "Event_Severity" is not modified, could be declared constant
+ves-client.adb:58:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:59:04: warning: "Event_Source_Type" is not modified, could be declared constant
+ves-client.adb:59:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:60:04: warning: "Event_Category" is not modified, could be declared constant
+ves-client.adb:60:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:61:04: warning: "Alarm_Condition" is not modified, could be declared constant
+ves-client.adb:61:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:62:04: warning: "Specific_Problem" is not modified, could be declared constant
+ves-client.adb:62:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:63:04: warning: "Vf_Status" is not modified, could be declared constant
+ves-client.adb:63:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:64:04: warning: "Alarm_Interface_A" is not modified, could be declared constant
+ves-client.adb:64:32: (style) bad casing of "String" declared in Standard
+ves-client.adb:66:04: warning: "Alarm_Add_Inform_Spec_Pb_ID_Name" is not modified, could be declared constant
+ves-client.adb:66:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:67:04: warning: "Alarm_Add_Inform_Spec_Pb_ID_Value" is not modified, could be declared constant
+ves-client.adb:67:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:68:04: warning: "Alarm_Add_Inform_Object_UID_Name" is not modified, could be declared constant
+ves-client.adb:68:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:69:04: warning: "Alarm_Add_Inform_Object_UID_Value" is not modified, could be declared constant
+ves-client.adb:69:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:70:04: warning: "Alarm_Add_Inform_Location_Info_Name" is not modified, could be declared constant
+ves-client.adb:70:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:71:04: warning: "Alarm_Add_Inform_Location_Info_Value" is not modified, could be declared constant
+ves-client.adb:71:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:72:04: warning: "Alarm_Add_Inform_Add_Info_Name" is not modified, could be declared constant
+ves-client.adb:72:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:73:04: warning: "Alarm_Add_Inform_Add_Info_Value" is not modified, could be declared constant
+ves-client.adb:73:43: (style) bad casing of "String" declared in Standard
+ves-client.adb:74:100: (style) this line is too long
+ves-client.adb:75:01: (style) trailing spaces not permitted
+ves-client.adb:76:04: warning: "Alarm_Add_Inform" is not modified, could be declared constant
+ves-client.adb:76:25: (style) bad casing of "String" declared in Standard
+ves-client.adb:90:04: warning: "Json" is not modified, could be declared constant
+ves-client.adb:90:11: (style) bad casing of "String" declared in Standard
+ves-client.adb:90:17: (style) space required
+ves-client.adb:93:05: (style) bad indentation
+ves-client.adb:93:05: warning: "Event" is not modified, could be declared constant
+ves-client.adb:93:13: (style) bad casing of "String" declared in Standard
+ves-client.adb:95:07: warning: "Common_Event_Header" is not modified, could be declared constant
+ves-client.adb:95:29: (style) bad casing of "String" declared in Standard
+ves-client.adb:95:38: (style) trailing spaces not permitted
+ves-client.adb:99:78: (style) trailing spaces not permitted
+ves-client.adb:114:06: (style) bad indentation
+ves-client.adb:114:06: warning: "Fault_Fields" is not modified, could be declared constant
+ves-client.adb:114:21: (style) bad casing of "String" declared in Standard
+ves-client.adb:130:04: warning: "Cr" is not modified, could be declared constant
+ves-client.adb:130:09: (style) bad casing of "String" declared in Standard
+ves-client.adb:132:04: (style) subprogram body has no previous spec
+ves-client.adb:132:14: warning: procedure "Usage" is not referenced
+ves-client.adb:138:06: (style) two spaces required
+ves-client.adb:139:06: (style) two spaces required
+ves-client.adb:140:06: (style) bad column
+ves-client.adb:141:09: (style) two spaces required
+ves-client.adb:142:06: (style) two spaces required
+ves-client.adb:145:09: (style) two spaces required
+ves-client.adb:146:09: (style) two spaces required
+ves-client.adb:152:09: (style) two spaces required
+ves-client.adb:153:15: (style) space required
+ves-client.adb:155:15: (style) space required
+ves-client.adb:156:01: (style) trailing spaces not permitted
+ves-client.adb:158:09: (style) two spaces required

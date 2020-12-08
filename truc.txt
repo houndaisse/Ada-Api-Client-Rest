@@ -1,0 +1,46 @@
+{
+    "event":{
+        "commonEventHeader":{
+            "version": 3.0,
+            "eventName": "Slave MPU is offline",
+            "domain": "fault",
+            "eventId": "1501489595451",
+            "eventType": "applicationVnf",
+            "nfcNamingCode": "",
+            "nfNamingCode": "",
+            "sourceId": "example-vnf-id-val-31366",
+            "sourceName": "example-vnf-name-val-51172",
+            "reportingEntityId": "0000ZTHX1",
+            "reportingEntityName": "0000ZTHX1",
+            "priority": "High",
+            "startEpochMicrosec": 1501518702,
+            "lastEpochMicrosec": 1501518702,
+            "sequence": 960
+        },
+        "faultFields":{
+            "faultFieldsVersion": 2.0,
+            "eventSeverity": "CRITICAL",
+            "eventSourceType": "PgwFunction",
+            "eventCategory": "equipmentAlarm",
+            "alarmCondition": "The slave MPU board is offline or abnormal",
+            "specificProblem": "The slave MPU board is offline or abnormal",
+            "vfStatus": "Active",
+            "alarmInterfaceA": "VNF_194.15.13.138",
+            "alarmAdditionalInformation": [{
+                "name":"specificProblemID",
+                "value": "315"
+            }, {
+                "name":"objectUID",
+                "value":"0000ZTHX1PGWGJI6V1"
+            }, {
+                "name":"locationInfo",
+                "value":"MPU_22_20_0"
+            }, {
+                "name":"addInfo",
+                "value":"Aid:17;AlarmCode:110010;AlarmReasonCode:110010;Remark:\"DeployUnit=22,Node=21,SubNode=0\";"
+            }]
+        }
+    }
+}
+
+
